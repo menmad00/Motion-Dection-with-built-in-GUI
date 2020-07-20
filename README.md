@@ -8,7 +8,7 @@ The main idea is to detect state change of some pixels between the current and p
 
 # Example
 
-
+![An example of Motin Detection and GUI](https://github.com/menmad00/Motion-Dection-with-built-in-GUI/blob/master/example.jpg)
 
 # Dependencies
 
