@@ -9,8 +9,8 @@ The main idea is to detect state change of some pixels between the current and p
 # Dependencies
 
 - Python 3
-- Install opencv-python 4.3.0 (pip install opencv-python)
-- Webcamera
+- [Install OpenCV-python](https://pypi.org/project/opencv-python/) or `pip install opencv-python`
+- A working Webcamera!
 
 # Run Motion Detector with GUI
 
