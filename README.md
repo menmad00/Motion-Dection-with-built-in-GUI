@@ -18,5 +18,5 @@ Clone the repository and run the command python motion.py or pythonw motion.py i
 
 # Developers
 
-Menelaos M. 
+Menelaos M. and 
 Emmanouil K.
