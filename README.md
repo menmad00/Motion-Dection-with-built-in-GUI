@@ -1,4 +1,4 @@
-# Motion-Dection-with-built-in-GUI
+# Motion-Detection-with-built-in-GUI
 
 It is a Python Script for Motion Detection utilizing OpenCV-python package with built-in GUI that offers various functions to user. If a motion is large enough to be detected (adjustable) the user is notified both with a popup window showing the motion and with a sound effect.
 
