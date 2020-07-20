@@ -18,7 +18,7 @@ The main idea is to detect state change of some pixels between the current and p
 
 # Run Motion Detector with GUI
 
-Clone the repository and run the command python motion.py or pythonw motion.py in the project directory.
+Clone the repository and run the command `python motion.py` or `pythonw motion.py` in the project directory.
 
 # Developers
 
